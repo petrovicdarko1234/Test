@@ -1,0 +1,130 @@
+hr{
+  border-top: 10px dotted #abe5e5;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+
+}
+a{
+  color: #11999E;
+  margin: 10px;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+}
+a:hover{
+  color: #EAF6F6;
+}
+body {
+  color: #d33232;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 2;
+
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.65rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Edu QLD Beginner', cursive;
+  font-size: 2.5rem ;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Edu QLD Beginner', cursive;
+}
+.top {
+  background-color: #49812a;
+    padding-top: 100px;
+    position: relative;
+}
+.middle {
+margin: 100px auto;
+}
+.bottom{
+  background-color: #66BFBF;
+ padding: 50px 0 20px;
+ }
+.oblak1{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.oblak2{
+position: absolute;
+bottom: 300px;
+left: 300px;
+}
+.profilna{
+  border-radius: 100%;
+  width: 25%;
+}
+.skill-row-1{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skill-row-2{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skills{
+
+}
+.za-skill-1{
+  border-radius: 50%;
+  width: 35%;
+  float: left;
+  margin-right: 30px;
+}
+.za-skill-2{
+  border-radius: 50%;
+  width: 35%;
+  float: right;
+  margin-left: 30px;
+}
+.uvod{
+  width: 30%;
+  margin: auto;
+}
+.kontaktmsg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
+.btn {
+	box-shadow: 0 1px 8px 0 #f0f7fa;
+	background-color:#33bdef;
+	border-radius:8px;
+	border:2px solid #057fd0;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+ font-family: 'Montserrat', sans-serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:1px 2px 2px #5b6178;
+}
+.btn:hover {
+	background-color:#019ad2;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
